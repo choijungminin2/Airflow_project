@@ -32,18 +32,6 @@ Apache Airflow를 기반으로 하여 이커머스 데이터 처리의 전 과�
 
 ---
 
-## 시각화 결과 예시
-- **요일 X 시간대 주문량 히트맵**  
-  ![plot_order_heatmap]
-
-- **고객별 평균 재구매율 분포**  
-  ![user_reorder_rate]
-
-- **유저-상품 주문 비율 분포**  
-  ![user_product_order_ratio]
-
----
-
 ## 기대 효과
 
 - CSV 데이터를 자동으로 분할하고 처리할 수 있는 파이프라인 구현  
