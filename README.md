@@ -6,6 +6,8 @@ Apache Airflow를 기반으로 하여 이커머스 데이터 처리의 전 과�
 ---
 
 ## 프로젝트 구조
+
+airflow_project/
 ├── dags/
 │ ├── etl_workflow.py # Airflow DAG 파일
 │ ├── scripts/
@@ -13,9 +15,12 @@ Apache Airflow를 기반으로 하여 이커머스 데이터 처리의 전 과�
 │ │ ├── preprocess.py # 데이터 로드 및 전처리, 피처 생성
 │ │ ├── visualize.py # 시각화 함수
 │ │ └── train_model.py # 모델 학습 및 평가
-│ └── plots/ # 시각화 및 모델 결과 이미지 저장 폴더
-│ ├── eda1/ ~ eda3/
-│ └── modeling/
+├── plots/ # 시각화 및 모델 결과 이미지 저장 폴더
+│ ├── eda1/
+│ ├── eda2/
+│ └── eda3/
+├── modeling/ # 모델링 관련 결과물 폴더 (옵션)
+└── README.md # 프로젝트 소개 문서
 
 ---
 
