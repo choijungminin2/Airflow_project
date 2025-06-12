@@ -34,13 +34,13 @@ Apache Airflow를 기반으로 하여 이커머스 데이터 처리의 전 과�
 
 ## 시각화 결과 예시
 - **요일 X 시간대 주문량 히트맵**  
-  ![plot_order_heatmap](plots/order_heatmap.png)
+  ![plot_order_heatmap]
 
 - **고객별 평균 재구매율 분포**  
-  ![user_reorder_rate](plots/user_reorder_rate.png)
+  ![user_reorder_rate]
 
 - **유저-상품 주문 비율 분포**  
-  ![user_product_order_ratio](plots/user_product_order_ratio.png)
+  ![user_product_order_ratio]
 
 ---
 
