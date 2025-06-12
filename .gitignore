@@ -1,0 +1,19 @@
+# 데이터
+dags/data/order_products__prior.csv
+dags/data/order_products__train.csv
+dags/data/orders.csv
+dags/data/products.csv
+dags/data/aisles.csv
+dags/data/departments.csv
+
+# 캐시 및 로그
+__pycache__/
+*.pyc
+*.log
+
+# 결과물
+output/
+plots/
+
+# 환경 파일
+.env
