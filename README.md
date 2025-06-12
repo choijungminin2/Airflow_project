@@ -70,3 +70,4 @@ Apache Airflow를 기반으로 하여 이커머스 데이터 처리의 전 과�
 - **시각화**: Matplotlib, Seaborn  
 - **모델링**: Scikit-learn, XGBoost, LightGBM  
 - **워크플로우 자동화**: Apache Airflow  
+# airflow_project
